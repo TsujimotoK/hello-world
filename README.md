@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+# Hello, humans!
+I'm TsujimotoK. Now I start using Github.
